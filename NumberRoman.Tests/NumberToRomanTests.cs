@@ -23,5 +23,12 @@ namespace NumberRoman.Tests
             string output = lib.GetRoman(input);
             Assert.AreEqual("III", output);
         }
+        [Test]
+        public void When9_Returns_roman9()
+        {
+            int input = 9;
+            string output = lib.GetRoman(input);
+            Assert.AreEqual("IX", output);
+        }
     }
 }
