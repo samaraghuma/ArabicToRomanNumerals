@@ -1,0 +1,9 @@
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\bin\Debug\NumberRoman.Tests.dll
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\bin\Debug\NumberRoman.Tests.pdb
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\bin\Debug\ClassLibrary1.dll
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\bin\Debug\nunit.framework.dll
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\bin\Debug\ClassLibrary1.pdb
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\bin\Debug\nunit.framework.xml
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\obj\Debug\NumberToRoman.Tests.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\obj\Debug\NumberRoman.Tests.dll
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman.Tests\obj\Debug\NumberRoman.Tests.pdb

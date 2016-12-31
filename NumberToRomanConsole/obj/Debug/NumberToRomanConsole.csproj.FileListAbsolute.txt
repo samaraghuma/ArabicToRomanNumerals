@@ -1,0 +1,16 @@
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman\bin\Debug\NumberRoman.exe.config
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman\bin\Debug\NumberRoman.exe
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman\bin\Debug\NumberRoman.pdb
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman\bin\Debug\ClassLibrary1.dll
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman\bin\Debug\ClassLibrary1.pdb
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman\obj\Debug\NumberToRomanConsole.csprojResolveAssemblyReference.cache
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman\obj\Debug\NumberRoman.exe
+c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\NumberRoman\obj\Debug\NumberRoman.pdb
+C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRomanConsole\bin\Debug\NumberRoman.exe.config
+C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRomanConsole\bin\Debug\NumberRoman.exe
+C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRomanConsole\bin\Debug\NumberRoman.pdb
+C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRomanConsole\bin\Debug\ClassLibrary1.dll
+C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRomanConsole\bin\Debug\ClassLibrary1.pdb
+C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRomanConsole\obj\Debug\NumberToRomanConsole.csprojResolveAssemblyReference.cache
+C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRomanConsole\obj\Debug\NumberRoman.exe
+C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRomanConsole\obj\Debug\NumberRoman.pdb
