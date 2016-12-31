@@ -5,6 +5,5 @@ c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\ClassLibrary1\o
 c:\users\samar\documents\visual studio 2015\Projects\NumberRoman\ClassLibrary1\obj\Debug\NumberToRoman.Library.csprojResolveAssemblyReference.cache
 C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRoman.Library\bin\Debug\ClassLibrary1.dll
 C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRoman.Library\bin\Debug\ClassLibrary1.pdb
-C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRoman.Library\obj\Debug\NumberToRoman.Library.csprojResolveAssemblyReference.cache
 C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRoman.Library\obj\Debug\ClassLibrary1.dll
 C:\Users\samar\Documents\Visual Studio 2015\Projects\NumberRoman\NumberToRoman.Library\obj\Debug\ClassLibrary1.pdb
