@@ -11,9 +11,11 @@ namespace NumberToRoman.Library
         public static string GetRoman(int num)
         {
             string val = "";
-            if (num==1)
+            
+            while (num >= 1)
             {
                 val += "I";
+                num -= 1;
             }
             return val;
            
