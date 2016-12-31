@@ -11,13 +11,17 @@ namespace NumberRoman.Tests
     public class NumberToRomanTests
     {
         [Test]
-
-        public void When1_Returns_roman1()
-        {
-            int input = 1;
+            public void When1_Returns_roman1()
+        {   int input = 1;
             string output = lib.GetRoman(input);
             Assert.AreEqual("I", output);
         }
-       
+        [Test]
+        public void When3_Returns_roman3()
+        {
+            int input = 3;
+            string output = lib.GetRoman(input);
+            Assert.AreEqual("III", output);
+        }
     }
 }
