@@ -37,5 +37,12 @@ namespace NumberRoman.Tests
             string output = lib.GetRoman(input);
             Assert.AreEqual("MLXVI", output);
         }
+        [Test]
+        public void When1989_Returns_roman1989()
+        {
+            int input = 1989;
+            string output = lib.GetRoman(input);
+            Assert.AreEqual("MCMLXXXIX", output);
+        }
     }
 }
