@@ -30,5 +30,12 @@ namespace NumberRoman.Tests
             string output = lib.GetRoman(input);
             Assert.AreEqual("IX", output);
         }
+        [Test]
+        public void When1066_Returns_roman1066()
+        {
+            int input = 1066;
+            string output = lib.GetRoman(input);
+            Assert.AreEqual("MLXVI", output);
+        }
     }
 }
